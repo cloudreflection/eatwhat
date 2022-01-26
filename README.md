@@ -12,4 +12,4 @@ _🦌 网页小游戏 🥛_
 
 把贴图换成透明的，看看你的欧气如何
 
-[cloudflare Page](https://eat.cloudreflection.ml/index.html)
+[cloudflare Pages ==> eat.cloudreflection.ml](https://eat.cloudreflection.ml/index.html)
