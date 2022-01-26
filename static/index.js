@@ -351,10 +351,10 @@
         }
         SubmitResults();
         if (score <= 0) return '看来运气不是那么好呢qwq';
-        if (score <= 10) return '继续继续';
-        if (score <= 35) return 'TQL';
-        if (score <= 50) return '试试抽个卡？';
-        if (score <= 80) return '您';
+        if (score <= 2) return '继续继续';
+        if (score <= 5) return 'TQL';
+        if (score <= 10) return '试试抽个卡？';
+        if (score <= 20) return '您';
         return '人？';
     }
 
